@@ -17,4 +17,8 @@ _[reference PDK : SKYWATER-130]_
 
 **NAND_Test_Schematic**
 
-![dc_analysis_schematic](https://github.com/shrishu-kumar/Logic-Gates-using-CMOS/blob/main/screenshots/nand_test.png)
+![NAND_analysis_schematic](https://github.com/shrishu-kumar/Logic-Gates-using-CMOS/blob/main/screenshots/nand_test.png)
+
+**TRAN_analysis_output_curve**
+
+![TRAN_analysis curve](https://github.com/shrishu-kumar/Logic-Gates-using-CMOS/blob/main/screenshots/nand_test_ss.png)
