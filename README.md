@@ -22,3 +22,13 @@ _[reference PDK : SKYWATER-130]_
 **TRAN_analysis_output_curve**
 
 ![TRAN_analysis curve](https://github.com/shrishu-kumar/Logic-Gates-using-CMOS/blob/main/screenshots/nand_test_ss.png)
+## XOR Schematic 
+Designing a schematic using Universal NAND gate and some input and output pins.   
+
+![XOR_CMOS_Schematic](https://github.com/shrishu-kumar/Logic-Gates-using-CMOS/blob/main/screenshots/xor_sch.png)
+**XOR_TRAN_analysis**
+
+![XOR_CMOS_Schematic_test](https://github.com/shrishu-kumar/Logic-Gates-using-CMOS/blob/main/screenshots/XOR_TEST_TRAN.png)
+
+**XOR_TRAN_analysis_out_waveform**
+![XOR_CMOS_Schematic_test_waveform](https://github.com/shrishu-kumar/Logic-Gates-using-CMOS/blob/main/screenshots/xor_test_ss.png)
